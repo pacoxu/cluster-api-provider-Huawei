@@ -1,0 +1,6 @@
+domain: cluster.x-k8s.io
+layout:
+- go.kubebuilder.io/v3
+projectName: cluster-api-provider-huawei
+repo: github.com/HuaweiCloudDeveloper/cluster-api-provider-Huawei
+version: "3"
